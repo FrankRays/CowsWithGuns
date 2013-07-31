@@ -1,0 +1,244 @@
+﻿<Project DefaultTargets="Build" ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>8.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{05180188-0791-435B-96EF-CE29BA671862}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>App.ico</ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>cowswithguns2003</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>cowswithguns2003</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>cowswithguns2003.frmMainMenu</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>0.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App.ico" />
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Blast.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DBMS.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="frmCredits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEndGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGameContainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGameScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGameStart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGameTimer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInGameMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLevelEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMyConsole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlayerDisplay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTeams.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWeaponsMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Game.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="gameClient.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="horisontalBarGraph.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Projectile.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Server.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SimpleTime.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Solid.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Tank.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="team.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <None Include="cowswithguns2003.mdx" />
+    <EmbeddedResource Include="frmCredits.resx">
+      <DependentUpon>frmCredits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEndGame.resx">
+      <DependentUpon>frmEndGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGameContainer.resx">
+      <DependentUpon>frmGameContainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGameScreen.resx">
+      <DependentUpon>frmGameScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGameStart.resx">
+      <DependentUpon>frmGameStart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGameTimer.resx">
+      <DependentUpon>frmGameTimer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInGameMenu.resx">
+      <DependentUpon>frmInGameMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLevelEditor.resx">
+      <DependentUpon>frmLevelEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMainMenu.resx">
+      <DependentUpon>frmMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManual.resx">
+      <DependentUpon>frmManual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMyConsole.resx">
+      <DependentUpon>frmMyConsole.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOptions.resx">
+      <DependentUpon>frmOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPlayerDisplay.resx">
+      <DependentUpon>frmPlayerDisplay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSplashScreen.resx">
+      <DependentUpon>frmSplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTeams.resx">
+      <DependentUpon>frmTeams.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTop.resx">
+      <DependentUpon>frmTop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWeaponsMenu.resx">
+      <DependentUpon>frmWeaponsMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="horisontalBarGraph.resx">
+      <DependentUpon>horisontalBarGraph.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

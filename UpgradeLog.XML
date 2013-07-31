@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="cowswithguns2003">
+</Property><Property Name="Solution File" Value="M:\PROJECTS\CWG\Code\cowswithguns2003\cowswithguns2003.sln">
+</Property><Property Name="User Options File" Value="M:\PROJECTS\CWG\Code\cowswithguns2003\cowswithguns2003.suo">
+</Property><Property Name="Date" Value="24 August 2010">
+</Property><Property Name="Time" Value="17:21">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="cowswithguns2003.sln" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\cowswithguns2003.sln">
+</Event><Event ErrorLevel="0" Project="" Source="cowswithguns2003.suo" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\cowswithguns2003.suo">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="cowswithguns2003.csproj" Description="Project file successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\cowswithguns2003.csproj">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="cowswithguns2003.csproj.user" Description="Project user file successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\cowswithguns2003.csproj.user">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="AssemblyInfo.cs" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="Blast.cs" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\Blast.cs">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="DBMS.cs" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\DBMS.cs">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmCredits.cs" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmCredits.cs">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmEndGame.cs" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmEndGame.cs">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmGameContainer.cs" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmGameContainer.cs">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmGameScreen.cs" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmGameScreen.cs">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmGameStart.cs" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmGameStart.cs">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmGameTimer.cs" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmGameTimer.cs">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmInGameMenu.cs" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmInGameMenu.cs">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmLevelEditor.cs" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmLevelEditor.cs">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmMainMenu.cs" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmMainMenu.cs">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmManual.cs" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmManual.cs">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmMyConsole.cs" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmMyConsole.cs">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmOptions.cs" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmOptions.cs">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmPlayerDisplay.cs" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmPlayerDisplay.cs">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmSplashScreen.cs" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmSplashScreen.cs">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmTeams.cs" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmTeams.cs">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmTop.cs" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmTop.cs">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmWeaponsMenu.cs" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmWeaponsMenu.cs">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="Game.cs" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\Game.cs">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="gameClient.cs" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\gameClient.cs">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="horisontalBarGraph.cs" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\horisontalBarGraph.cs">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="Projectile.cs" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\Projectile.cs">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="Server.cs" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\Server.cs">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="SimpleTime.cs" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\SimpleTime.cs">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="Solid.cs" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\Solid.cs">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="Tank.cs" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\Tank.cs">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="team.cs" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\team.cs">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="cowswithguns2003.mdx" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\cowswithguns2003.mdx">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="App.ico" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmCredits.resx" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmCredits.resx">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmEndGame.resx" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmEndGame.resx">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmGameContainer.resx" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmGameContainer.resx">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmGameScreen.resx" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmGameScreen.resx">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmGameStart.resx" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmGameStart.resx">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmGameTimer.resx" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmGameTimer.resx">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmInGameMenu.resx" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmInGameMenu.resx">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmLevelEditor.resx" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmLevelEditor.resx">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmMainMenu.resx" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmMainMenu.resx">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmManual.resx" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmManual.resx">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmMyConsole.resx" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmMyConsole.resx">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmOptions.resx" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmOptions.resx">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmPlayerDisplay.resx" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmPlayerDisplay.resx">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmSplashScreen.resx" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmSplashScreen.resx">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmTeams.resx" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmTeams.resx">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmTop.resx" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmTop.resx">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="frmWeaponsMenu.resx" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\frmWeaponsMenu.resx">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="horisontalBarGraph.resx" Description="File successfully backed up as M:\PROJECTS\CWG\Code\cowswithguns2003\Backup\horisontalBarGraph.resx">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="cowswithguns2003.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="cowswithguns2003" Source="cowswithguns2003.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="cowswithguns2003.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="cowswithguns2003.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="cowswithguns2003" Source="cowswithguns2003.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
